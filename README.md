@@ -1,7 +1,7 @@
 # rpi-supply
 
 ## Description
-Crawler/Parser for [rpilocator|https://rpilocator.com]. It can be used for
+Crawler/Parser for [rpilocator](https://rpilocator.com). It can be used for
 setting up alerts based on availability of specific SKU.
 The script will request (GET) `https://rpilocator.com?instock` and parse the
 response. It will show all available SKUs and color code ones that user
